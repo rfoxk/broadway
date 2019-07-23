@@ -9,10 +9,16 @@ font-weight: bold;
 }
 
 div{
-  background-image: url(resources/back.png);
+  background-image: url(back.png);
   color: white;
 }
+
 h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
   font-size: 23px;
   font-weight: bold;
 }
@@ -23,12 +29,15 @@ p{
 
 a{
   font-size: 18px;
+  color: white;
+  font-weight: bold;
 }
 
 footer{
 font-size: 11px;
 background-color: dimgray;
 color:white;
+text-align: left;
 }
 
 a.footer{
